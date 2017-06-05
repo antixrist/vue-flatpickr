@@ -1,5 +1,5 @@
 {
-  "name": "@jacobmischka/vue-flatpickr",
+  "name": "@antixrist/vue-flatpickr",
   "version": "2.2.11",
   "description": "Flatpickr for VueJS",
   "main": "dist/index.js",
@@ -10,7 +10,7 @@
     "lint": "eslint --ext .js,.vue src"
   },
   "dependencies": {
-    "flatpickr": "^2.3.7"
+    "flatpickr": "^2.6.3"
   },
   "devDependencies": {
     "autoprefixer": "^6.4.0",
@@ -59,7 +59,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jrainlau/vue-flatpickr.git"
+    "url": "git+https://github.com/antixrist/vue-flatpickr.git"
   },
   "keywords": [
     "vue",
@@ -70,9 +70,9 @@
   "author": "Jrain Lau",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jrainlau/vue-flatpickr/issues"
+    "url": "https://github.com/antixrist/vue-flatpickr/issues"
   },
-  "homepage": "https://github.com/jrainlau/vue-flatpickr#readme",
+  "homepage": "https://github.com/antixrist/vue-flatpickr#readme",
   "engines": {
     "node": ">= 4.0.0",
     "npm": ">= 3.0.0"

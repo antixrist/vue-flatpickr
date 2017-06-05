@@ -2,7 +2,7 @@ node_modules
 build
 config
 docs
-src
+#src
 index.html
 .DS_Store
 .*
