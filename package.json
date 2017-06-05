@@ -1,5 +1,5 @@
 {
-  "name": "@antixrist/vue-flatpickr",
+  "name": "@antixrist.ru/vue-flatpickr",
   "version": "2.2.12",
   "description": "Flatpickr for VueJS",
   "main": "dist/index.js",
